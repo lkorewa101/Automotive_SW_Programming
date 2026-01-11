@@ -1,0 +1,11 @@
+/parameter_publisher:
+  ros__parameters:
+    advanced_settings:
+      buffer_size: 1000
+      debug_mode: false
+      log_level: info
+    message_content: "\uC218\uC815\uB41C \uBA54\uC2DC\uC9C0 \uB0B4\uC6A9"
+    node_active: false
+    publish_frequency: 2.0
+    use_sim_time: false
+

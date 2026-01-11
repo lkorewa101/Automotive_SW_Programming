@@ -1,0 +1,4 @@
+param_publisher:
+  ros__parameters:
+    publish_frequency: 3.0
+    message_prefix: "YAML"

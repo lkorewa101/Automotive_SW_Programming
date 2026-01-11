@@ -1,0 +1,12 @@
+/parameter_publisher:
+  ros__parameters:
+    publish_frequency: 5.0
+    message_content: "Configuration from YAML file"
+    node_active: true
+    advanced_settings.debug_mode: true
+    advanced_settings.log_level: "INFO"
+    advanced_settings.buffer_size: 1000
+
+/another_node:
+  ros__parameters:
+    some_parameter: 42
